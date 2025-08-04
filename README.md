@@ -156,9 +156,13 @@ _No Content_
 </details>
 
 ---
+
+<details>
 <summary><h2>🧠 Advanced</h2></summary>
 
 _No Content_
+
+</details>
 
 ---
 
