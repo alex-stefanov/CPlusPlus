@@ -5,7 +5,7 @@
 ---
 
 <details>
-<summary><h2 id="programming-basics">🧩 Programming Basics</h2></summary>
+<summary><h2>🧩 Programming Basics</h2></summary>
 
 <details>
 <summary>01. First Steps In Coding</summary>
@@ -149,7 +149,7 @@
 ---
 
 <details>
-<summary><h2 id="fundamentals">🔷 Fundamentals</h2></summary>
+<summary><h2>🔷 Fundamentals</h2></summary>
 
 _No Content_
 
@@ -158,7 +158,7 @@ _No Content_
 ---
 
 <details>
-<summary><h2 id="advanced">🧠 Advanced</h2></summary>
+<summary><h2>🧠 Advanced</h2></summary>
 
 _No Content_
 
@@ -167,7 +167,7 @@ _No Content_
 ---
 
 <details>
-<summary><h2 id="object-oriented-programming-oop">🧱 Object-Oriented Programming (OOP)</h2></summary>
+<summary><h2>🧱 Object-Oriented Programming (OOP)</h2></summary>
 
 _No Content_
 
