@@ -151,7 +151,114 @@
 <details>
 <summary><h2 id="fundamentals">🔷 Fundamentals</h2></summary>
 
-_No Content_
+<details>
+<summary>01. Basic Syntax</summary>
+
+**Lecture:** ❌
+
+<table>
+  <tr>
+    <th>Labs</th>
+    <th>Exercises</th>
+  </tr>
+  <tr><td>❌ 01</td><td>❌ 01</td></tr>
+  <tr><td>❌ 02</td><td>❌ 02</td></tr>
+  <tr><td>❌ 03</td><td>❌ 03</td></tr>
+  <tr><td>❌ 04</td><td>❌ 04</td></tr>
+  <tr><td>❌ 05</td><td>❌ 05</td></tr>
+  <tr><td>❌ 06</td><td>❌ 06</td></tr>
+  <tr><td>❌ 07</td><td>❌ 07</td></tr>
+  <tr><td>❌ 08</td><td>❌ 08</td></tr>
+</table>
+
+</details>
+
+<details>
+<summary>02. Functions</summary>
+
+**Lecture:** ❌
+
+<table>
+  <tr>
+    <th>Labs</th>
+    <th>Exercises</th>
+  </tr>
+  <tr><td>❌ 01</td><td>❌ 01</td></tr>
+  <tr><td>❌ 02</td><td>❌ 02</td></tr>
+  <tr><td>❌ 03</td><td>❌ 03</td></tr>
+  <tr><td>❌ 04</td><td>❌ 04</td></tr>
+  <tr><td>❌ 05</td><td>❌ 05</td></tr>
+  <tr><td>❌ 06</td><td>❌ 06</td></tr>
+  <tr><td></td><td>❌ 07</td></tr>
+  <tr><td></td><td>❌ 08</td></tr>
+  <tr><td></td><td>❌ 09</td></tr>
+</table>
+
+</details>
+
+<details>
+<summary>03. Arrays</summary>
+
+**Lecture:** ❌
+
+<table>
+  <tr>
+    <th>Labs</th>
+    <th>Exercises</th>
+  </tr>
+  <tr><td>❌ 01</td><td>❌ 01</td></tr>
+  <tr><td>❌ 02</td><td>❌ 02</td></tr>
+  <tr><td>❌ 03</td><td>❌ 03</td></tr>
+  <tr><td>❌ 04</td><td>❌ 04</td></tr>
+  <tr><td>❌ 05</td><td>❌ 05</td></tr>
+  <tr><td>❌ 06</td><td>❌ 06</td></tr>
+  <tr><td></td><td>❌ 07</td></tr>
+  <tr><td></td><td>❌ 08</td></tr>
+  <tr><td></td><td>❌ 09</td></tr>
+</table>
+
+</details>
+
+<details>
+<summary>04. String and Streams</summary>
+
+**Lecture:** ❌
+
+<table>
+  <tr>
+    <th>Labs</th>
+    <th>Exercises</th>
+  </tr>
+  <tr><td>❌ 01</td><td>❌ 01</td></tr>
+  <tr><td>❌ 02</td><td>❌ 02</td></tr>
+  <tr><td>❌ 03</td><td>❌ 03</td></tr>
+  <tr><td>❌ 04</td><td>❌ 04</td></tr>
+  <tr><td></td><td>❌ 05</td></tr>
+  <tr><td></td><td>❌ 06</td></tr>
+  <tr><td></td><td>❌ 07</td></tr>
+  <tr><td></td><td>❌ 08</td></tr>
+</table>
+
+</details>
+
+<details>
+<summary>05. Vectors, Lists and Iterators</summary>
+
+**Lecture:** ❌
+
+<table>
+  <tr>
+    <th>Labs</th>
+    <th>Exercises</th>
+  </tr>
+  <tr><td>❌ 01</td><td>❌ 01</td></tr>
+  <tr><td>❌ 02</td><td>❌ 02</td></tr>
+  <tr><td>❌ 03</td><td>❌ 03</td></tr>
+  <tr><td>❌ 04</td><td>❌ 04</td></tr>
+  <tr><td>❌ 05</td><td></td></tr>
+</table>
+
+</details>
 
 </details>
 
